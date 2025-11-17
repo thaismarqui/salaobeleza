@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/11/15 20:20:33.000.856,=C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/15 20:20:55.000.406,=C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/15 20:21:08.000.825,C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\Salao.dproj</Transaction>
+    <Transaction>2025/11/15 20:23:48.000.299,C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\Salao.dproj=C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\SistemaSalao.dproj</Transaction>
+    <Transaction>2025/11/15 20:24:45.000.256,C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\thais\OneDrive\Desktop\DSIN\U_Salao.dfm</Transaction>
+    <Transaction>2025/11/15 20:24:45.000.256,C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\thais\OneDrive\Desktop\DSIN\U_Salao.pas</Transaction>
+    <Transaction>2025/11/15 20:24:48.000.477,C:\Users\thais\OneDrive\Documentos\Embarcadero\Studio\Projects\SistemaSalao.dproj=C:\Users\thais\OneDrive\Desktop\DSIN\SistemaSalao.dproj</Transaction>
+    <Transaction>2025/11/15 20:28:16.000.226,C:\Users\thais\OneDrive\Desktop\DSIN\U_Salao.pas=C:\Users\thais\OneDrive\Desktop\DSIN\U_Principal.pas</Transaction>
+    <Transaction>2025/11/15 20:28:16.000.226,C:\Users\thais\OneDrive\Desktop\DSIN\U_Salao.dfm=C:\Users\thais\OneDrive\Desktop\DSIN\U_Principal.dfm</Transaction>
+    <Transaction>2025/11/15 20:35:31.000.711,=C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas</Transaction>
+    <Transaction>2025/11/15 20:35:43.000.966,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas=C:\Users\thais\OneDrive\Desktop\DSIN\U_DataM.pas</Transaction>
+    <Transaction>2025/11/15 20:35:43.000.966,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.dfm=C:\Users\thais\OneDrive\Desktop\DSIN\U_DataM.dfm</Transaction>
+    <Transaction>2025/11/15 22:00:27.000.348,=C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas</Transaction>
+    <Transaction>2025/11/15 22:00:56.000.335,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas=C:\Users\thais\OneDrive\Desktop\DSIN\U_Login.pas</Transaction>
+    <Transaction>2025/11/15 22:00:56.000.335,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.dfm=C:\Users\thais\OneDrive\Desktop\DSIN\U_Login.dfm</Transaction>
+    <Transaction>2025/11/15 23:21:01.000.280,=C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas</Transaction>
+    <Transaction>2025/11/15 23:21:19.000.767,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas=C:\Users\thais\OneDrive\Desktop\DSIN\Consultas\U_ConServicos.pas</Transaction>
+    <Transaction>2025/11/15 23:21:19.000.767,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.dfm=C:\Users\thais\OneDrive\Desktop\DSIN\Consultas\U_ConServicos.dfm</Transaction>
+    <Transaction>2025/11/15 23:33:39.000.471,=C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas</Transaction>
+    <Transaction>2025/11/15 23:34:00.000.586,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.pas=C:\Users\thais\OneDrive\Desktop\DSIN\Cadastros\U_CadServicos.pas</Transaction>
+    <Transaction>2025/11/15 23:34:00.000.586,C:\Users\thais\OneDrive\Desktop\DSIN\Unit1.dfm=C:\Users\thais\OneDrive\Desktop\DSIN\Cadastros\U_CadServicos.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
